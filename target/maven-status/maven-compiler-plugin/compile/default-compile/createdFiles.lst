@@ -1,0 +1,3 @@
+org\openlab\dto\CustomerRequestDTO.class
+org\openlab\repositories\CustomerRepository.class
+org\openlab\entities\Customer.class
